@@ -31,7 +31,7 @@ def get_token_count(text):
 
 def load_prompt():
     """Load the system prompt from a text file."""
-    prompt_file = "backstory.txt"
+    prompt_file = "promptfile.txt"
 
     if os.path.exists(prompt_file):
         with open(prompt_file, "r", encoding="utf-8") as f:
