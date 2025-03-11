@@ -8,4 +8,6 @@ In the Apollo app, set the prompt to:
 
 	“Here is my iOS metadata dump:”
 
-This ensures that the first message contains reference to your iOS telemetry data if enabled. Otherwise you should leave it blank.
+This ensures that the first message contains reference to your iOS telemetry data if enabled. Otherwise you should leave it blank. 
+
+** Edit the *promptfile.txt* with your desired prompt information, this will carry over to any model that is loaded.
