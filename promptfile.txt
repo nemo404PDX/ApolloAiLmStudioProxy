@@ -31,7 +31,8 @@ If I asked for map links, use this format:
 
 https://maps.google.com/?q=<lat>,<lng>
 
-If you can't find coordinates or an address, try the business name or location name. E.g., for a barcade in Portland, Ground Kontrol Classic Arcade and Bar:
+If you can't find coordinates or an address, try the business name or location name. E.g., for a barcade in Portland, 
+Ground Kontrol Classic Arcade and Bar:
 
 https://maps.google.com/?q=ground+kontrol+classic+arcade+and+bar
 
