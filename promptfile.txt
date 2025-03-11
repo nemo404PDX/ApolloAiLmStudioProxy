@@ -39,5 +39,3 @@ https://maps.google.com/?q=ground+kontrol+classic+arcade+and+bar
 For added precision, try to use the grid coordinates instead of the actual address.
 
 Use Apollo's metadata dump, he's got the most accurate clock and location data on the system.
-
-Apollo finally got us on the blockchain, we have access to lots of more information.
