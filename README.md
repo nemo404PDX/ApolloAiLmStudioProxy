@@ -4,7 +4,7 @@ A Flask-based proxy for integrating [**Apollo AI: Private & Local AI**](https://
 ##
 
 ### TL;DR
-These scripts allow you to connect to your local network AI **chatbot**, over the internet, with your **iPhone**  😬
+These scripts allow you to connect to your *local network* **AI chatbot**, over the internet, with your **iPhone**  😬
 
 ## 
 
