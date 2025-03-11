@@ -10,7 +10,23 @@ These scripts allow you to connect to your *local network* **AI chatbot**, over 
 
 ### Setup
 
-In the Apollo app, set the prompt to:
+In the Apollo app, go to:
+
+Settings > AI Provider > Custom Backends > New Backend
+
+Set the Base URL to:
+
+	“https://<INSERT-YOUR-FREE-STATIC-NGROK-URL>.ngrok-free.app/v1”
+
+Set the Chat Path to:
+
+    “/chat/completions”
+
+Set the Models Path to:
+
+    “/models”
+
+Finally, go into the prompt and set the prompt to:
 
 	“Here is my iOS metadata dump:”
 
