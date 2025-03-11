@@ -9,7 +9,7 @@ from llama_cpp import Llama  # Import llama-cpp-python
 app = Flask(__name__)
 
 # LM Studio API URL for chat completions
-LM_STUDIO_URL = "http://192.168.4.42:1234/v1/chat/completions"
+LM_STUDIO_URL = "http://<CHANGE-IP>:1234/v1/chat/completions"
 
 # Path to your GGUF model (Update this to match your setup)
 MODEL_PATH = "/Users/<CHANGE-USERNAME>/.lmstudio/models/Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2-GGUF/Llama-3.1-8B-Lexi-Uncensored_V2_Q8.gguf"
