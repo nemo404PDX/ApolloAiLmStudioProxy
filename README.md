@@ -10,4 +10,4 @@ In the Apollo app, set the prompt to:
 
 This ensures that the first message contains reference to your iOS telemetry data if enabled. Otherwise you should leave it blank. 
 
-** Edit the *promptfile.txt* with your desired prompt information, this will carry over to any model that is loaded.
+**Edit** the *promptfile.txt* with your desired prompt information, this will carry over to **all** loaded models.
